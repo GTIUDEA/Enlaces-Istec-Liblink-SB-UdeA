@@ -1,0 +1,70 @@
+h1{
+    font-size:30px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #ADB5BD;
+}
+h2{
+    font-size:27px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #6C757D;
+}
+body{
+    background-color: #fff;
+    font-size:16px;
+    text-align: left;
+    font-family: 'Roboto Slab', serif;
+    color: #343A40;
+}
+#links{
+    }
+#tablecontainer, #headercontainer{
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.header{
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-left: 15%;
+    width: 62%;
+}
+button{
+    border-radius: 4px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.linkbutton {
+    background-color: white;
+    color: #285817; /* Green UdeA */
+    border: 3px solid #285817; /* Green UdeA */
+    
+}
+
+.visitedbutton{
+
+    background-color: #CAF0F8;
+    color: #0096C7;
+    border: 3px solid #0096C7; /* Green UdeA */
+
+}
+
+.lastvisitedbutton{
+
+    background-color: #FBE4D5;
+    color: #FB8500;
+    border: 3px solid #FB8500; /* Green UdeA */
+
+}
